@@ -20,10 +20,10 @@ function throwFrisbee(dogName, dogBreed)
 
 function walkHome(dogName, dogBreed)
 {
-  return `Walk to the park with ${dogName} the ${dogBreed}`;
+  return `Walk home with ${dogName} the ${dogBreed}`;
 }
 
 function unleashDog(dogName, dogBreed)
 {
-  return `Walk to the park with ${dogName} the ${dogBreed}`;
+  return `Unleash ${dogName} the ${dogBreed}`;
 }
