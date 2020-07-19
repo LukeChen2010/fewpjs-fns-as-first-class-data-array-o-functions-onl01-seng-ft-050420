@@ -7,3 +7,8 @@ function leashDog()
 {
   return `Leash ${dogName} the ${dogBreed}`;
 }
+
+function walkToPark()
+{
+
+}
